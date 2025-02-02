@@ -1,18 +1,24 @@
-**HELLEVATOR**
+# in
 
-**Team Members:** [Your names here]
+**Team Members:** Dason Lin and Georgia Wu
 
 **How would you pitch your game in one line?**
-ultrakill but its just a middle aged man swept into hell from an elevator from his office apartment
+[example format: "The organization and psychological horror genres meet in this game about moving in a haunted house."
 
 **What is the key mechanic(s) that make it fun?**
-the movement and weapons should make it pretty clear to the player that this is meant to be a speedrunning game. meaning theres no limit to how fast you can go. any strategy you find. use it.
+The key mechanic is organizing items into shelves/drawers or cleaning. It's fun because of the satisfaction of cleaning/organization and can also be relaxing and 
+motivating for the player. 
 
 **How does the game actually play? (Core Game Loop)**
-*elevator dings* you are now in hell. then the elevator opens and you're forced to punch off a few enemies chasing you
+The player is moving in and must either unpack boxes to organize into shelves/drawers or clean up items to put into boxes. Each room (e.g. living, bath)
+ is a level and each room has certain areas that need organizing. They are trying to achieve the correct placements of items for successful organization while facing 
+ small puzzles (e.g. quick time events, searching for objects in the scene). 
+ The reward is moving onto the next room and progressing the story abt the ghost that haunts the house.
 
-**How will you keep players engaged for 30 minutes? What's the general scope of your game (will change as you go)?**
-make them fall into the trap of improvement. that feeling that "i could do a LITTLE bit better" and have them entrapped into the game for eternity.. or as long as you like :)
-
+How will you keep players engaged for 30 minutes? What's the general scope of your game (will change as you go)?
+We plan to invest a lot of time into visuals and story so that the game is calming and/or terrifying depending on the player's progress. As well, we will be creative
+in our level design (like what exactly the player is organizing; a creative idea could be a plushie collection in a bedroom) In certain areas, there will be a horror 
+elements (e.g. jumpscare, something moves by itself) that encourages the player to keep playing and find out what's going on. 
 ---
 *Remember: Focus on gameplay mechanics and player experience. Save the details about story, art style, sound design, UI flowcharts, marketing plans, or achievements for later.*
+
